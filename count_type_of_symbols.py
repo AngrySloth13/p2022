@@ -13,7 +13,7 @@ Input valuetest123$
 Number of letters: 4
 Number of digits: 3
 Number of special symbols: 1
-
+(!@#$%^ cannot be used in any input)
 '''
 import string
 import sys
